@@ -22,10 +22,10 @@ El logo de GitHub es el siguiente
 git add fichero
 ```
 
-```
+```console
 git commit -m "Comentario sobre el commit"
 ```
 
-```
+```console
 git push
 ```
